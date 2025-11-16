@@ -1,0 +1,92 @@
+{
+  "overview": {
+    "totalCreated": 107,
+    "totalActive": 70,
+    "totalSoldWithPaymentProtection": 27,
+    "totalSoldWithoutPaymentProtection": 10
+  },
+  "listings": [
+    {
+      "id": 3,
+      "sellerName": "sdvfa vfv ydfigwe",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "P. Protection, D. Contact",
+      "adTitle": "Used Iphone 12",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 556,
+      "sellerName": "asdv sf",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "P. Protection, D. Contact",
+      "adTitle": "New Fan Bosch",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 88,
+      "sellerName": "Jude ehstnzhd",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "Payment Protection",
+      "adTitle": "Fairly Used phone",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 89,
+      "sellerName": "v svs<v",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "P. Protection, D. Contact",
+      "adTitle": "Car Tyres",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "sellerName": "v svs<v",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "Direct Contact",
+      "adTitle": "Children's Cloth",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 9,
+      "sellerName": "reahbrg",
+      "askingPrice": 1000,
+      "itemLocation": "Egbeda",
+      "sellingMode": "P. Protection, D. Contact",
+      "adTitle": "Used Curtains",
+      "creationDate": "12th Oct. 2025",
+      "status": "Pending"
+    },
+    {
+      "id": 10,
+      "sellerName": "test seller",
+      "askingPrice": 2000,
+      "itemLocation": "Lagos",
+      "sellingMode": "Payment Protection",
+      "adTitle": "Test Item",
+      "creationDate": "13th Oct. 2025",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "sellerName": "another seller",
+      "askingPrice": 5000,
+      "itemLocation": "Abuja",
+      "sellingMode": "Direct Contact",
+      "adTitle": "Another Item",
+      "creationDate": "14th Oct. 2025",
+      "status": "Sold"
+    }
+  ]
+}
+
+
